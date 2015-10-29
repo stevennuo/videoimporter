@@ -1,0 +1,23 @@
+{
+  "name": "videoimporter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevennuo/videoimporter.git"
+  },
+  "author": "linuo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevennuo/videoimporter/issues"
+  },
+  "homepage": "https://github.com/stevennuo/videoimporter#readme",
+  "devDependencies": {
+    "fluent-ffmpeg": "^2.0.1",
+    "mongoose": "^4.2.3"
+  }
+}
